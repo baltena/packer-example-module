@@ -1,0 +1,17 @@
+{
+  "name": "packer-example-module",
+  "version": "0.0.1",
+  "description": "Example module for corpapp framework",
+  "author": "Willem Veelenturf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghiata/packer-example-module.git"
+  },
+  "homepage": "http://packerjs.io",
+  "dependencies": {
+    "grunt": "0.4.1",
+    "packer-module": "~0.0.5",
+    "packer-unit": "~0.0.3",
+    "packer-e2e": "~0.0.4"
+  }
+}
