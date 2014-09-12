@@ -8,7 +8,7 @@
     "url": "https://github.com/ghiata/packer-example-module.git"
   },
   "homepage": "http://packerjs.io",
-  "dependencies": {
+  "devDependencies": {
     "grunt": "0.4.1",
     "packer-module": "~0.0.5",
     "packer-unit": "~0.0.3",
